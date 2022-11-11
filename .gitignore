@@ -1,0 +1,16 @@
+#ignore everything in the root execpt the wp-content directory 
+!wp-content/
+
+!wp-content/*
+!wp-content/mu-plugins/
+!wp-contet/themes/
+
+wp-content/plugins/hello.php
+
+wp-content/themes/denaro
+
+node_modules/
+
+*.log
+*.sql
+*.sqlite
